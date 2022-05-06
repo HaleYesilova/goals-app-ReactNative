@@ -1,9 +1,10 @@
 # ReactNative-Goals App
 Simple mobile app for the daily tasks.
 
-Preview
+Preview:
 
-<img width="222" alt="MainPage" src="https://user-images.githubusercontent.com/63909504/167152927-9b76f8b2-5f1b-4351-9774-ea6b4906ff12.png">  <img width="222" alt="ListPage" src="https://user-images.githubusercontent.com/63909504/167153781-5d6bae53-e81b-46e4-968e-4878fda0959f.png">
+<img width="221" alt="MainPage" src="https://user-images.githubusercontent.com/63909504/167155439-d82e1bc9-7297-492e-be16-141722ad487c.png">        <img width="221" alt="List" src="https://user-images.githubusercontent.com/63909504/167154327-6abf7f86-25a5-4ba4-8d97-6bc7005a1dc7.png">
+
 
 
 
