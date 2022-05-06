@@ -1,2 +1,2 @@
-# goals-app-ReactNative
+# Goals-App-ReactNative
 Goals App
