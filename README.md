@@ -1,5 +1,6 @@
 # ReactNative-Goals App
 Simple mobile app for the daily tasks.
+Expo CLI extension for simulator IOS & Android devices.
 
 Preview:
 
